@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MatrixCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"a.txt\" \"b.txt\" \"c.txt\" \"Primer.txt\""
+    }
+  }
+}

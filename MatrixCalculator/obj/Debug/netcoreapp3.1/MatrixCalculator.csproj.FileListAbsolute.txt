@@ -1,0 +1,13 @@
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.csprojAssemblyReference.cache
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.AssemblyInfoInputs.cache
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.AssemblyInfo.cs
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.exe
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.deps.json
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.runtimeconfig.json
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.runtimeconfig.dev.json
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.dll
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\bin\Debug\netcoreapp3.1\MatrixCalculator.pdb
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.dll
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.pdb
+C:\Users\lifec\Desktop\C-Sharp\MatrixCalculator\MatrixCalculator\obj\Debug\netcoreapp3.1\MatrixCalculator.genruntimeconfig.cache
